@@ -1,0 +1,25 @@
+
+.chat-form-container {
+  position: absolute;
+padding: 20px 30px;
+  background-color: var(--dark-color-a);
+  bottom:-60px;
+  background:#594f8d;
+  width:80%;
+  left:17%;
+}
+
+.chat-form-container form {
+display: flex;
+}
+
+.chat-form-container input[type='text'] {
+font-size: 16px;
+padding: 5px;
+height: 40px;
+flex: 1;
+color:black;
+}
+.btn-plane{
+color:#594f8d;
+}
